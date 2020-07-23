@@ -28,3 +28,20 @@ A. MÔ TẢ VỀ Android Studio:
 
 ![image](Untitled14.png)
 
+- Khi tạo tập tin apk thành công sẽ xuất hiện thông báo bên gốc phải dưới của Android Studio (từ cửa sổ Event log)
+- Chọn liên kết locate để đến thư mục debug chứa tập tin apk
+
+![image](Untitled15.png)
+
+- Và Chạy.
+
+### Chúc Các Bạn Thành Công !!!
+
+### Bạn Có Thể Xem Bài Tiếp Theo:
+
+- <a href="https://github.com/ChanhMinions/CommonGestures">Phát hiện cử chỉ người dùng với lớp Android Gesture Detector!</a>
+
+![image](ezr.png)
+
+                                                           Trần Phú , Ngày 23 tháng 7 Năm 2020
+
